@@ -1,0 +1,336 @@
+[
+   {
+      "videoId":"e-5obm1G_FY",
+      "name":"Learning Functional Programming with JavaScript - Anjana Vakil - JSUnconf",
+      "desc":[
+         "Anjana's next talk at JSConf EU in May: http://2017.jsconf.eu/speakers/anjana...​",
+         "Slides: https://slidr.io/vakila/learning-func..."
+      ],
+      "creator":{
+         "name":"JSConf",
+         "subsribers":"208K",
+         "channel":"UCzoVCacndDCfGDf41P-z0iA",
+         "avatar":"https://yt3.ggpht.com/ytc/AAUvwniqf6LAjdRMAu3JhmxT0uTqu6pnVlUjF_ypLIRQJg=s48-c-k-c0x00ffffff-no-rj"
+      },
+      "uploadOn":"Jun 14, 2016",
+      "duration":"29:56",
+      "stats":{
+         "like":46858,
+         "dislike":1500,
+         "views":2204443
+      }
+   },
+   {
+      "videoId":"Wo0qiGPSV-s",
+      "name":"Anjana Vakil: Immutable data structures for functional JS | JSConf EU",
+      "desc":[
+         "Functional programming has been gaining a lot of popularity in the JS community, and with good reason: rejecting side-effects and mutability - in-place changes to data - helps avoid a lot of headaches. But when you refuse to mutate objects, you have to create a whole new object each time something changes, which can slow things down and eat up memory, making functional programming seem inefficient.​",
+         "That’s where immutable data structures come in - to save the day, and time and space! Also called “persistent data structures”, they help you efficiently make new “modified” versions of immutable objects, by reusing parts of the old object that you don’t need to change.",
+         "In this talk we’ll take a look at how these data structures work, why they’re fantastic for functional programming, and how we can easily use them in our JS code thanks to libraries like Mori and Immutable.js."
+      ],
+      "creator":{
+         "name":"JSConf",
+         "subsribers":"208K",
+         "channel":"UCzoVCacndDCfGDf41P-z0iA",
+         "avatar":"https://yt3.ggpht.com/ytc/AAUvwniqf6LAjdRMAu3JhmxT0uTqu6pnVlUjF_ypLIRQJg=s48-c-k-c0x00ffffff-no-rj"
+      },
+      "uploadOn":"May 14, 2017",
+      "duration":"29:32",
+      "stats":{
+         "like":45000,
+         "dislike":1000,
+         "views":250703
+      }
+   },
+   {
+      "videoId":"SrNQS8J67zc",
+      "name":"Asynchrony: Under the Hood - Shelley Vohr - JSConf EU",
+      "desc":[
+         "This talk will explore the conceptual underpinnings of asynchronous programming options, and the drawbacks and advantages to each. JS has supported callbacks since 2009, and as years have gone by it’s added support for promises, generators, and now async/await. On a surface level, each of these techniques seeks to answer a question of how to access data not immediately available, but a deeper look into how each works on a granular level will show their implementation differences and how these differences affect usage. We’ll also take a look at how intermediate values, and errors are affected by each method. I’ll walk through a series of scenarios so you can better visualize performance differences, and how each method propagates data through the stack and the event loop. Finally, I’ll talk about where the future of async may be headed. Armed with new knowledge from this deep dive, the potentially treacherous road to fully understanding async will hopefully become a smoother ride!",
+         "OMG JSConf EU is coming back in 2019 https://2019.jsconf.eu/"
+      ],
+      "creator":{
+         "name":"JSConf",
+         "subsribers":"208K",
+         "channel":"UCzoVCacndDCfGDf41P-z0iA",
+         "avatar":"https://yt3.ggpht.com/ytc/AAUvwniqf6LAjdRMAu3JhmxT0uTqu6pnVlUjF_ypLIRQJg=s48-c-k-c0x00ffffff-no-rj"
+      },
+      "uploadOn":"Jun 27, 2018",
+      "duration":"25:23",
+      "stats":{
+         "like":40000,
+         "dislike":1200,
+         "views":78012
+      }
+   },
+   {
+      "videoId":"l1A1ImFkNvA",
+      "name":"From beginner to expert in web performance - Tracy Lee",
+      "desc":[
+         "From beginner to expert in web performance: How developers can help their teams achieve success today",
+         "Have you ever thought about how you can help your team succeed by making your application faster? It's so easy, and quick to learn. This talk will walk through how to easily create a successful roadmap for introducing performance improvements into any development team today."
+      ],
+      "creator":{
+         "name":"JSConf",
+         "subsribers":"208K",
+         "channel":"UCzoVCacndDCfGDf41P-z0iA",
+         "avatar":"https://yt3.ggpht.com/ytc/AAUvwniqf6LAjdRMAu3JhmxT0uTqu6pnVlUjF_ypLIRQJg=s48-c-k-c0x00ffffff-no-rj"
+      },
+      "uploadOn":"Feb 11, 2021",
+      "duration":"15:58",
+      "stats":{
+         "like":2000,
+         "dislike":200,
+         "views":3671
+      }
+   },
+   {
+      "videoId":"K8spO4hHMhg",
+      "name":"Abhinav Rastogi: Scaling NodeJS beyond the ordinary | JSConf Iceland 2018",
+      "desc":[
+         "We have been using Node as our primary web serving layer for the last 3 years at Flipkart, continuously adding more features, more properties and most importantly, more traffic onto it. This has led to the discovery of a lot of bottlenecks and a lot of late-night load tests. In this talk, I’ll be focusing on scaling a Node based web server and what kind of issues we have run into. This will include different approaches to attacking this problem like horizontal and vertical scaling. I will be taking you through the variety of resource bottlenecks you can expect to run into, like network, memory, disk and cpu. I’ll touch upon how to find these bottlenecks and what technologies you can use to solve them."
+      ],
+      "creator":{
+         "name":"JSConf",
+         "subsribers":"208K",
+         "channel":"UCzoVCacndDCfGDf41P-z0iA",
+         "avatar":"https://yt3.ggpht.com/ytc/AAUvwniqf6LAjdRMAu3JhmxT0uTqu6pnVlUjF_ypLIRQJg=s48-c-k-c0x00ffffff-no-rj"
+      },
+      "uploadOn":"Apr 6, 2018",
+      "duration":"26:40",
+      "stats":{
+         "like":20111,
+         "dislike":200,
+         "views":3671
+      }
+   },
+   {
+      "videoId":"M3BM9TB-8yA",
+      "name":"10 Things I Regret About Node.js - Ryan Dahl - JSConf EU",
+      "desc":[
+         "Here Ryan Dahl is launching the Deno, Deno is a simple, modern and secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust."
+      ],
+      "creator":{
+         "name":"JSConf",
+         "subsribers":"208K",
+         "channel":"UCzoVCacndDCfGDf41P-z0iA",
+         "avatar":"https://yt3.ggpht.com/ytc/AAUvwniqf6LAjdRMAu3JhmxT0uTqu6pnVlUjF_ypLIRQJg=s48-c-k-c0x00ffffff-no-rj"
+      },
+      "uploadOn":"Jun 6, 2018",
+      "duration":"26:41",
+      "stats":{
+         "like":50111,
+         "dislike":1000,
+         "views":507579
+      }
+   },
+   {
+      "videoId":"Mjqf2kkFLy8",
+      "name":"HTTP headers for the responsible developer by Stefan Judis | JSConf EU 2019",
+      "desc":[
+         "To build inclusive websites, developers have to consider accessibility, performance and user flows. Crafted source code forms the foundation for thought-through UIs, but it’s not only about the code. Let’s have a look at HTTP, and to be specific, its headers that can have a direct impact on user experience."
+      ],
+      "creator":{
+         "name":"JSConf",
+         "subsribers":"208K",
+         "channel":"UCzoVCacndDCfGDf41P-z0iA",
+         "avatar":"https://yt3.ggpht.com/ytc/AAUvwniqf6LAjdRMAu3JhmxT0uTqu6pnVlUjF_ypLIRQJg=s48-c-k-c0x00ffffff-no-rj"
+      },
+      "uploadOn":"Jul 25, 2019",
+      "duration":"26:41",
+      "stats":{
+         "like":2111,
+         "dislike":100,
+         "views":30002
+      }
+   },
+   {
+      "videoId":"8aGhZQkoFbQ",
+      "name":"What the heck is the event loop anyway? | Philip Roberts | JSConf EU",
+      "desc":[
+         "JavaScript programmers like to use words like, “event-loop”, “non-blocking”, “callback”, “asynchronous”, “single-threaded” and “concurrency”.",
+         "We say things like “don’t block the event loop”, “make sure your code runs at 60 frames-per-second”, “well of course, it won’t work, that function is an asynchronous callback!”",
+         "If you’re anything like me, you nod and agree, as if it’s all obvious, even though you don’t actually know what the words mean; and yet, finding good explanations of how JavaScript actually works isn’t all that easy, so let’s learn!",
+         "With some handy visualisations, and fun hacks, let’s get an intuitive understanding of what happens when JavaScript runs."
+      ],
+      "creator":{
+         "name":"JSConf",
+         "subsribers":"208K",
+         "channel":"UCzoVCacndDCfGDf41P-z0iA",
+         "avatar":"https://yt3.ggpht.com/ytc/AAUvwniqf6LAjdRMAu3JhmxT0uTqu6pnVlUjF_ypLIRQJg=s48-c-k-c0x00ffffff-no-rj"
+      },
+      "uploadOn":"Oct 9, 2014",
+      "duration":"26:52",
+      "stats":{
+         "like":51314,
+         "dislike":342,
+         "views":1833541
+      }
+   },
+   {
+      "videoId":"KJP1E-Y-xyo",
+      "name":"Getting Closure on React Hooks by Shawn Wang | JSConf.Asia 2019",
+      "desc":[
+         "The design of React Hooks requires a good understanding of closures in JavaScript. In this talk, we’ll reintroduce closures by building a tiny clone of React! This will serve two purposes – to demonstrate the effective use of closures, and to show how you can build a Hooks clone in just 29 lines of readable JS. Finally, we arrive at how you get Custom Hooks and the Rules of Hooks out of this incredible mental model!",
+         "Originally from Singapore, swyx is an Infinite Builder working on Developer Experience at Netlify. In his free time he helps people Learn in Public at Egghead.io and /r/reactjs.",
+         "JSConf.Asia - LASALLE College of the Arts, Singapore - 15 June 2019"
+      ],
+      "creator":{
+         "name":"JSConf",
+         "subsribers":"208K",
+         "channel":"UCzoVCacndDCfGDf41P-z0iA",
+         "avatar":"https://yt3.ggpht.com/ytc/AAUvwniqf6LAjdRMAu3JhmxT0uTqu6pnVlUjF_ypLIRQJg=s48-c-k-c0x00ffffff-no-rj"
+      },
+      "uploadOn":"Jul 2, 2019",
+      "duration":"26:24",
+      "stats":{
+         "like":15314,
+         "dislike":32,
+         "views":29956
+      }
+   },
+   {
+      "videoId":"HktWin_LPf4",
+      "name":"Lin Clark: A Cartoon Intro to WebAssembly | JSConf EU",
+      "desc":[
+         "WebAssembly is fast. It’s being called “the future of the web”. It’s speed and potential have major browser vendors working together to make it a reality. And it’s on it’s way—the MVP hit multiple browsers in October of last year.",
+         "But what makes it fast? Starting from the basics, this talk will walk you through what WebAssembly is, and then why it’s fast."
+      ],
+      "creator":{
+         "name":"JSConf",
+         "subsribers":"208K",
+         "channel":"UCzoVCacndDCfGDf41P-z0iA",
+         "avatar":"https://yt3.ggpht.com/ytc/AAUvwniqf6LAjdRMAu3JhmxT0uTqu6pnVlUjF_ypLIRQJg=s48-c-k-c0x00ffffff-no-rj"
+      },
+      "uploadOn":"May 16, 2017",
+      "duration":"29:40",
+      "stats":{
+         "like":30150,
+         "dislike":169,
+         "views":80842
+      }
+   },
+   {
+      "videoId":"1meg-Dl_Urw",
+      "name":"Baby’s First Rust+WebAssembly module: Say hi to JSConf EU!",
+      "desc":[
+         "A secret project has been brewing for JSConf EU, and this weekend is the big reveal…",
+         "OMG JSConf EU is coming back in 2019 https://2019.jsconf.eu/"
+      ],
+      "creator":{
+         "name":"JSConf",
+         "subsribers":"208K",
+         "channel":"UCzoVCacndDCfGDf41P-z0iA",
+         "avatar":"https://yt3.ggpht.com/ytc/AAUvwniqf6LAjdRMAu3JhmxT0uTqu6pnVlUjF_ypLIRQJg=s48-c-k-c0x00ffffff-no-rj"
+      },
+      "uploadOn":"Jun 18, 2018",
+      "duration":"11:50",
+      "stats":{
+         "like":1000,
+         "dislike":50,
+         "views":6078
+      }
+   },
+   {
+      "videoId":"p-iiEDtpy6I",
+      "name":"Franziska Hinkelmann: JavaScript engines - how do they even? | JSConf EU",
+      "desc":[
+         "Want to know how JavaScript engines work? Why is JavaScript so fast? What is just-in-time compilation? We’ll look at basic concepts of compilers, challenges posed by modern JavaScript, and how to write compiler-friendly JavaScript."
+      ],
+      "creator":{
+         "name":"JSConf",
+         "subsribers":"208K",
+         "channel":"UCzoVCacndDCfGDf41P-z0iA",
+         "avatar":"https://yt3.ggpht.com/ytc/AAUvwniqf6LAjdRMAu3JhmxT0uTqu6pnVlUjF_ypLIRQJg=s48-c-k-c0x00ffffff-no-rj"
+      },
+      "uploadOn":"May 16, 2017",
+      "duration":"25:13",
+      "stats":{
+         "like":70058,
+         "dislike":1086,
+         "views":129249
+      }
+   },
+   {
+      "videoId":"c0oy0vQKEZE",
+      "name":"What’s new in JavaScript (Google I/O ’19)",
+      "desc":[
+         "This presentation gives an overview of cutting-edge JavaScript development techniques to build modern web and Node.js apps. Discover which features to expect in Chrome and Node.js soon, how the V8 engine optimizes for them, and how to improve real-world performance and stability on the Web and in Node.js."
+      ],
+      "creator":{
+         "name":"Google Chrome Developers",
+         "subsribers":"573K",
+         "channel":"UCnUYZLuoy1rq1aVMwx4aTzw",
+         "avatar":"https://yt3.ggpht.com/ytc/AAUvwniL7QUpTiyGjIpNfk6g7eCkMSB3yjnMS4wkMvY49Q=s48-c-k-c0x00ffffff-no-rj"
+      },
+      "uploadOn":"May 9, 2019",
+      "duration":"36:22",
+      "stats":{
+         "like":4446,
+         "dislike":104,
+         "views":215909
+      }
+   },
+   {
+      "videoId":"oLXGM0kiNNc",
+      "name":"DRY when writing a GraphQL React App by Tanay Pratap | React India",
+      "desc":[
+         "Let's face it, writing React apps with GraphQL is verbose. Your team took up a massive application write using React + GraphQL. It has a team of 200+ developers working on the same codebase. You need tools! You need abstraction! You need patterns! You don't want the same code to be written multiple times everywhere. How do you do that? Here comes middlewares on the frontend, links from Apollo, Observables and ASTs to ease your headache and make sure that you increase your team's productivity by making everyone write less code. Whether you are a single developer in a small startup or a big team working on a massive project, you do want to have these tricks up your sleeve!"
+      ],
+      "creator":{
+         "name":"Geekabyte",
+         "subsribers":"250",
+         "channel":"UCaFbHCBkPvVv1bWs_jwYt3w",
+         "avatar":"https://yt3.ggpht.com/ytc/AAUvwngxwFNN9ErHlvWbOYGTd3YfYC2EqG1Ze2te1M3n=s48-c-k-c0x00ffffff-no-rj"
+      },
+      "uploadOn":"Nov 10, 2019",
+      "duration":"20:34",
+      "stats":{
+         "like":23,
+         "dislike":0,
+         "views":450
+      }
+   },
+   {
+      "videoId":"XUgGl8mGu1M",
+      "name":"Rewriting Wiki in Teams with Apollo + GraphQL at Microsoft's scale - Tanay Pratap",
+      "desc":[
+         "Teams is the fastest growing product of Microsoft. The talk is about how Microsoft rewrote the existing Angular+REST based Wiki App into React+Apollo+GraphQL at Microsoft’s scale - quite a story to tell. A story, which Tanay wished someone had told him before he got into leading this effort."
+      ],
+      "creator":{
+         "name":"GraphQL Asia",
+         "subsribers":"418",
+         "channel":"UCXMN61PUm8_U-GYMIxffQkA",
+         "avatar":"https://yt3.ggpht.com/ytc/AAUvwngEhbmsnoMTR3dMynbooRnzJVvfqy83SquOk358=s48-c-k-c0x00ffffff-no-rj"
+      },
+      "uploadOn":"May 14, 2019",
+      "duration":"22:54",
+      "stats":{
+         "like":126,
+         "dislike":2,
+         "views":3195
+      }
+   },
+   {
+      "videoId":"2Dw8gA60d_k",
+      "name":"Refactoring React: Which component pattern can improve your codebase? - Siddharth Kshetrapal",
+      "desc":[
+         "Talk recording from React Amsterdam 2019 Conference",
+         "React on its own has a very small API surface. Most of the magic happens in user-land.",
+         "But, there's a lot out there: Higher-order components, Render props, Compound components? Provider methods? Learn which component pattern will make your codebase better in which use case."
+      ],
+      "creator":{
+         "name":"React Conferences by GitNation",
+         "subsribers":"15.6K",
+         "channel":"UCsFrt8oKNYXGspSlX9u6uXw",
+         "avatar":"https://yt3.ggpht.com/ytc/AAUvwngV7biTMd1qiVBxW_H74a2VhgRIEurOOjTi32SP=s48-c-k-c0x00ffffff-no-rj"
+      },
+      "uploadOn":"Apr 25, 2019",
+      "duration":"31:41",
+      "stats":{
+         "like":208,
+         "dislike":8,
+         "views":8373
+      }
+   }
+]
